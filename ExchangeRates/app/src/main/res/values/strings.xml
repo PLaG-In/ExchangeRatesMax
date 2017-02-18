@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="string_btnPullDescription">Get by XMLPull</string>
+    <string name="string_btnSimpleDescription">Get by XMLSimple</string>
+    <string name="string_dollar">USD</string>
+    <string name="string_euro">EUR</string>
+    <string name="month_rates">Month Rates</string>
+    <string name="ok">OK</string>
+    <string name="set_finish_date">SET FINISH DATE</string>
+    <string name="set_start_date">SET START DATE</string>
+</resources>
